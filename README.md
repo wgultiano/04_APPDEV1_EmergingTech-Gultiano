@@ -14,7 +14,8 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
     Source: Lee, D., Arnold, M., Srivastava, A., Plastow, K., Strelan, P., Ploeckl, F., Lekkas, D., & Palmer, E. (2024). The impact of generative AI on higher education learning and teaching: A study of educators’ perspectives. Computers and Education Artificial Intelligence, 6, 100221. https://doi.org/10.1016/j.caeai.2024.100221
 
 - **In IT**:  
-  In the IT sector, VR acts as a powerful tool for visual infrastructure design, employee upskilling, and enterprise training architecture. Software development and engineering firms use VR to recreate complex physical operations (like data center layouts or electrical grids), enabling system administrators and technicians to practice technical safety operations and interface diagnostics on demand.
+  Generative AI is utilized in the IT sector to automate processes, support software development, enhance cybersecurity, and improve IT operations. It helps IT professionals and organizations generate code, analyze data, monitor systems, detect security threats, and optimize workflows to increase productivity and efficiency.
+
 
   - **Reference**:  
     _Source: "Examples of VR used for Training – Industry Case Studies." VirtualSpeech, 2026. Retrieved from [https://virtualspeech.com/blog/vr-training-case-studies](https://virtualspeech.com/blog/vr-training-case-studies)_
