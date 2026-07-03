@@ -1,5 +1,3 @@
-# 04_APPDEV1_EmergingTech-Gultiano
-
 # Generative AI (GenAI)
 
 ## Purpose
