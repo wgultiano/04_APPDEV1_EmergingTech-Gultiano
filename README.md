@@ -28,7 +28,7 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
     Source: Dilmegani, C. (2026, June 22). Top 13 use cases of Generative AI in Education. AIMultiple. https://aimultiple.com/generative-ai-in-education
 
 - **In IT**:  
-  **Intel** developed an enterprise-level virtual Electrical Safety Recertification course for its technical workforce. By moving high-risk electrical grid maintenance training into an interactive 360-degree VR feedback sandbox, the initiative reduced the company's total training cost of ownership while tracking an estimated 300% return on investment over five years.
+  In the IT industry, particularly in software development, Generative AI provides tools such as GitHub Copilot that help developers write, optimize, and automate code more efficiently, reducing development time and improving productivity.
 
-  - **Reference**:  
-    _Source: Intel Enhances Training With VR Case Study via "Examples of VR used for Training." VirtualSpeech, 2026. Retrieved from [https://virtualspeech.com/blog/vr-training-case-studies](https://virtualspeech.com/blog/vr-training-case-studies)_
+- **Reference**:  
+    Source: Staff, C. (2026, March 24). 20 Examples of Generative AI applications across Industries. Coursera. https://www.coursera.org/articles/generative-ai-applications
