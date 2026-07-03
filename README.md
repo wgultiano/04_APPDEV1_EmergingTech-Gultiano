@@ -16,9 +16,8 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
 - **In IT**:  
   Generative AI is utilized in the IT sector to automate processes, support software development, enhance cybersecurity, and improve IT operations. It helps IT professionals and organizations generate code, analyze data, monitor systems, detect security threats, and optimize workflows to increase productivity and efficiency.
 
-
-  - **Reference**:  
-    _Source: "Examples of VR used for Training – Industry Case Studies." VirtualSpeech, 2026. Retrieved from [https://virtualspeech.com/blog/vr-training-case-studies](https://virtualspeech.com/blog/vr-training-case-studies)_
+- **Reference**:  
+    Source: ZBrain, & ZBrain. (2025, November 28). Generative AI for IT. ZBrain. https://zbrain.ai/generative-ai-for-it/#what-is-generative-ai
 
 ## Examples
 
