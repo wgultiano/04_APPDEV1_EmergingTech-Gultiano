@@ -7,4 +7,7 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
   _Source: Staff, C. (2026, April 18). What is generative AI? How it works, examples, benefits, and limitations. Coursera. https://www.coursera.org/articles/what-is-generative-ai
 
 ## Usage
+_**In Education**
+Generative AI is utilized in the education sector to generate educational materials, support teaching, learning, and improve assessments.
+
 
