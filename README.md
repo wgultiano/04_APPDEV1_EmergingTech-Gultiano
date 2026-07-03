@@ -22,10 +22,10 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
 ## Examples
 
 - **In Education**:  
-  Medical and clinical students are adopting systems like the **Osso VR** platform and custom university frameworks to complete virtual Objective Structured Clinical Examinations (OSCEs). This technology provides standardized virtual patient interactions, permitting students to perform procedures multiple times with immediate, data-driven performance analytics.
+  Gemini for Education, Google's AI assistant, is a tool designed to help schools, universities particularly teachers and students to help them create lesson plans, learning materials, and manage task more efficienly. 
 
-  - **Reference**:  
-    _Source: "From Conventional OSCE to Virtual Reality–Enhanced OSCE: A Narrative Review of Promise and Pitfalls in Medical Education." Taylor & Francis, 2026. Retrieved from [https://www.tandfonline.com/doi/full/10.2147/AMEP.S580766](https://www.tandfonline.com/doi/full/10.2147/AMEP.S580766)_
+- **Reference**:  
+    Source: Dilmegani, C. (2026, June 22). Top 13 use cases of Generative AI in Education. AIMultiple. https://aimultiple.com/generative-ai-in-education
 
 - **In IT**:  
   **Intel** developed an enterprise-level virtual Electrical Safety Recertification course for its technical workforce. By moving high-risk electrical grid maintenance training into an interactive 360-degree VR feedback sandbox, the initiative reduced the company's total training cost of ownership while tracking an estimated 300% return on investment over five years.
