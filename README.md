@@ -10,8 +10,8 @@ The main purpose of Generative AI (GenAI) is to create and generate contents lik
 - **In Education**:  
   Generative AI is utilized in educational institutions to generate materials, support teaching, learning, and improve assessments. It helps both educators and students gather information, create learning materials and resources. 
 
-  - **Reference**:  
-    _Source: "Virtual Reality in Training and Assessment Among Clinical Students and Lecturers at a Nigerian University: A Phenomenological Study." JMIR Medical Education, 2026. Retrieved from [https://mededu.jmir.org/2026/1/e75021](https://mededu.jmir.org/2026/1/e75021)_
+- **Reference**:  
+    Source: Lee, D., Arnold, M., Srivastava, A., Plastow, K., Strelan, P., Ploeckl, F., Lekkas, D., & Palmer, E. (2024). The impact of generative AI on higher education learning and teaching: A study of educators’ perspectives. Computers and Education Artificial Intelligence, 6, 100221. https://doi.org/10.1016/j.caeai.2024.100221
 
 - **In IT**:  
   In the IT sector, VR acts as a powerful tool for visual infrastructure design, employee upskilling, and enterprise training architecture. Software development and engineering firms use VR to recreate complex physical operations (like data center layouts or electrical grids), enabling system administrators and technicians to practice technical safety operations and interface diagnostics on demand.
